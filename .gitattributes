@@ -1,0 +1,17 @@
+# Fins de ligne normalisées pour le texte
+* text=auto
+*.py text eol=lf
+*.json text
+*.gltf text
+*.ini text
+*.uproject text
+*.md text
+
+# Binaires (assets Unreal, images, données)
+*.uasset binary
+*.umap binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.bin binary
+*.pdf binary
